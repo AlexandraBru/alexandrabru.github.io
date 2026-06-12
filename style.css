@@ -2,7 +2,7 @@
    THEME VARIABLES
 ═══════════════════════════════════════ */
 :root {
-    --font-display: 'Playfair Display', Georgia, serif;
+    --font-display: 'Consolas', Georgia, serif;
     --font-body: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
     --max-width: 860px;
     --nav-height: 64px;
