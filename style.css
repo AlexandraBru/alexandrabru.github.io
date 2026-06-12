@@ -110,7 +110,7 @@ nav {
 }
 
 .nav-name {
-    font-family: 'Kalam', cursive;
+    font-family: 'Consolas';
     font-size: 1.6rem;
     font-weight: 700;
     color: var(--color-text);
