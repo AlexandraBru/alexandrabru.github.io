@@ -32,13 +32,13 @@
 }
 
 [data-theme="dark"] {
-    --color-bg: #1C1418;
+    --color-bg: #000000;
     --color-bg-alt: #241C20;
     --color-surface: #2E2428;
     --color-text: #E2D8D4;
     --color-text-secondary: #B0A8A4;
     --color-text-light: #7A7070;
-    --color-accent: #C47A8A;
+    --color-accent: #008081;
     --color-accent-hover: #D4909E;
     --color-accent-light: rgba(196, 122, 138, 0.1);
     --color-accent-secondary: #B8976A;
