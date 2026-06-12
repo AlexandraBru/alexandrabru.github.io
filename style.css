@@ -46,7 +46,7 @@
     --color-border-light: #2E2428;
     --color-warm-glow: rgba(196, 122, 138, 0.05);
     --color-card-shadow: rgba(0, 0, 0, 0.2);
-    --color-nav-bg: rgba(28, 20, 24, 0.92);
+    --color-nav-bg: rgba(0, 0, 0, 1);
     --icon-sun-display: block;
     --icon-moon-display: none;
 }
