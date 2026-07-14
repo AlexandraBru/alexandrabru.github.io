@@ -2,7 +2,7 @@
    THEME VARIABLES
 ═══════════════════════════════════════ */
 :root {
-    --font-display: 'Consolas', Georgia, serif;
+    --font-display: 'Consolas', 'Press Start 2P', Georgia, serif;
     --font-body: -apple-system, BlinkMacSystemFont, 'Consolas', system-ui, sans-serif;
     --max-width: 860px;
     --nav-height: 64px;
@@ -110,7 +110,7 @@ nav {
 }
 
 .nav-name {
-    font-family: 'Consolas';
+    font-family: 'Press Start 2P';
     font-size: 1.6rem;
     font-weight: 700;
     color: var(--color-text);
