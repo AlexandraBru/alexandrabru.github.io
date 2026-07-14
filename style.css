@@ -12,7 +12,7 @@
 }
 
 [data-theme="light"] {
-    --color-bg: #FFFFFF;
+    --color-bg: #e35f5f;
     --color-bg-alt: #FFFFFF;
     --color-surface: #FFFFFF;
     --color-text: #000000;
@@ -32,8 +32,8 @@
 }
 
 [data-theme="dark"] {
-    --color-bg: #000000;
-    --color-bg-alt: #241C20;
+    --color-bg: #e35f5f;
+    --color-bg-alt: #000000;
     --color-surface: #2E2428;
     --color-text: #FFFFFF;
     --color-text-secondary: #FFFFFF;
