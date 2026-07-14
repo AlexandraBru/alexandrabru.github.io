@@ -381,7 +381,7 @@ section + section { border-top: 1px solid var(--color-border-light); }
 
 .project-card:hover {
     border-color: var(--color-accent);
-    box-shadow: 0 6px 24px var(--color-card-shadow);
+    box-shadow: 0 0px 0px var(--color-card-shadow);
     transform: translateY(-3px);
 }
 
