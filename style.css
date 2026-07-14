@@ -12,7 +12,7 @@
 }
 
 [data-theme="light"] {
-    --color-bg: #e35f5f;
+    --color-bg: #FFFFFF;
     --color-bg-alt: #FFFFFF;
     --color-surface: #FFFFFF;
     --color-text: #000000;
@@ -32,7 +32,7 @@
 }
 
 [data-theme="dark"] {
-    --color-bg: #e35f5f;
+    --color-bg: #000000;
     --color-bg-alt: #000000;
     --color-surface: #2E2428;
     --color-text: #FFFFFF;
