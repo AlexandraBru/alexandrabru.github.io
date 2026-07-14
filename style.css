@@ -802,7 +802,7 @@ section + section { border-top: 1px solid var(--color-border-light); }
    SUBPAGE STYLES (reading, music, etc.)
 ═══════════════════════════════════════ */
 .subpage-header {
-    padding: 48px 0 24px;
+    padding: 20px 0 20px;
 }
 
 .breadcrumb {
