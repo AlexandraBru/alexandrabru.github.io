@@ -15,8 +15,8 @@
     --color-bg: #FBF9F5;
     --color-bg-alt: #F0EBE3;
     --color-surface: #FFFFFF;
-    --color-text: #2A2028;
-    --color-text-secondary: #6A6060;
+    --color-text: #000000;
+    --color-text-secondary: #000000;
     --color-text-light: #9A908A;
     --color-accent: #208c71;
     --color-accent-hover: #e35f5f;
@@ -35,8 +35,8 @@
     --color-bg: #000000;
     --color-bg-alt: #241C20;
     --color-surface: #2E2428;
-    --color-text: #E2D8D4;
-    --color-text-secondary: #B0A8A4;
+    --color-text: #FFFFFF;
+    --color-text-secondary: #FFFFFF;
     --color-text-light: #7A7070;
     --color-accent: #208c71;
     --color-accent-hover: #e35f5f;
