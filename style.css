@@ -25,7 +25,7 @@
     --color-border: #DDD8CE;
     --color-border-light: #EDE8DF;
     --color-warm-glow: rgba(107, 45, 62, 0.04);
-    --color-card-shadow: rgba(255, 250, 151, 0.8);
+    --color-card-shadow: rgba(57, 77, 205, 0.8);
     --color-nav-bg: rgba(251, 249, 245, 0.92);
     --icon-sun-display: none;
     --icon-moon-display: block;
@@ -38,8 +38,8 @@
     --color-text: #E2D8D4;
     --color-text-secondary: #B0A8A4;
     --color-text-light: #7A7070;
-    --color-accent: #dfe300;
-    --color-accent-hover: #D4909E;
+    --color-accent: #208c71;
+    --color-accent-hover: #e35f5f;
     --color-accent-light: rgba(196, 122, 138, 0.1);
     --color-accent-secondary: #B8976A;
     --color-border: #3A3034;
