@@ -33,19 +33,19 @@
 
 [data-theme="dark"] {
     --color-bg: #000000;
-    --color-bg-alt: #000000;
-    --color-surface: #2E2428;
+    --color-bg-alt: #6c6c6c;
+    --color-surface: black;
     --color-text: #FFFFFF;
     --color-text-secondary: #FFFFFF;
-    --color-text-light: #7A7070;
+    --color-text-light: #FFFFFF;
     --color-accent: #208c71;
     --color-accent-hover: #e35f5f;
     --color-accent-light: rgba(108, 108, 108, 0.1);
-    --color-accent-secondary: #6c6c6c;
+    --color-accent-secondary: orange;
     --color-border: #d4d4d4;
     --color-border-light: #6c6c6c;
     --color-warm-glow: rgba(196, 122, 138, 0.05);
-    --color-card-shadow: rgba(0, 0, 0, 0.2);
+    --color-card-shadow: rgba(0, 0, 0, 3);
     --color-nav-bg: rgba(0, 0, 0, 1);
     --icon-sun-display: block;
     --icon-moon-display: none;
