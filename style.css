@@ -40,7 +40,7 @@
     --color-text-light: #FFFFFF;
     --color-accent: #208c71;
     --color-accent-hover: #e35f5f;
-    --color-accent-light: rgba(108, 108, 108, 0.1);
+    --color-accent-light: #000000;
     --color-accent-secondary: orange;
     --color-border: #d4d4d4;
     --color-border-light: #6c6c6c;
@@ -345,7 +345,7 @@ section + section { border-top: 1px solid var(--color-border-light); }
     padding: 7px 18px;
     font-size: 0.84rem;
     font-weight: 500;
-    color: var(--color-accent);
+    color: var(--color-accent-hover);
     background: var(--color-accent-light);
     border-radius: 24px;
     border: 1px solid transparent;
