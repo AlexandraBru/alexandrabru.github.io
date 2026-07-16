@@ -262,8 +262,8 @@ section + section { border-top: 1px solid var(--color-border-light); }
 }
 
 .hero-affiliation strong {
-    color: var(--color-accent-secondary);
-    font-weight: 600;
+    background-color: var(--color-accent-secondary);
+    font-weight: 500;
 }
 
 .hero-greeting {
