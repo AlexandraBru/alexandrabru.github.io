@@ -365,8 +365,10 @@ section + section { border-top: 1px solid var(--color-border-light); }
   z-index: 1;
 }
 
-.tag:hover .tooltiptext {
-  visibility: visible; border-color: var(--color-accent); }
+.tag:hover {
+   border-color: var(--color-accent);
+   .tooltiptext {visibility: visible}
+}
 
 /* ═══════════════════════════════════════
    PROJECTS
