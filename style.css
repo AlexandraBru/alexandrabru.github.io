@@ -829,7 +829,7 @@ section + section { border-top: 1px solid var(--color-border-light); }
 }
 
 .subpage-body {
-    padding: 0 0 72px;
+    padding: 0 0 50px;
 }
 
 .subpage-body p {
