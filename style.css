@@ -354,11 +354,12 @@ section + section { border-top: 1px solid var(--color-border-light); }
 
 .tag .tooltiptext {
   visibility: hidden;
-  width: 120px;
-  background-color: black;
+  width: 200px;
+  background-color: var(--color-accent-hover);
   /* color of the tooltip text */
   color: #fff;
-  text-align: center;
+  text-align: right;
+  font-size: 0.84rem;
   border-radius: 6px;
   padding: 5px 0;
   position: absolute;
