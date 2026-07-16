@@ -352,7 +352,21 @@ section + section { border-top: 1px solid var(--color-border-light); }
     transition: all 0.2s;
 }
 
-.tag:hover { border-color: var(--color-accent); }
+.tag .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: black;
+  /* color of the tooltip text */
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+}
+
+.tag:hover .tooltiptext {
+  visibility: visible; border-color: var(--color-accent); }
 
 /* ═══════════════════════════════════════
    PROJECTS
